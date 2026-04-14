@@ -1,0 +1,8 @@
+flask
+groq
+PyPDF2
+opencv-python
+pyttsx3
+SpeechRecognition
+pyaudio
+dotenv
